@@ -25,5 +25,5 @@
 ## Task
 
 1. Summarize the main topics in your way.
-2. Read this [Case Study](https://drive.google.com/file/d/1tZWtp5GXDZ-oG4muMASt63ix7MaZnGop/view?usp=drive_link) then come up with an ER Diagram to fulfill the requirements (This website may help [ERDPlus](https://erdplus.com/)).
+2. Read this [Case Study](https://drive.google.com/file/d/1DWNpveDlPPS0lBZ_bD88ayIma7XLVFQ4/view) then come up with an ER Diagram to fulfill the requirements (This website may help [ERDPlus](https://erdplus.com/)).
 3. Answer the MCQ Questions in the submission form.
