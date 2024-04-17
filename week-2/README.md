@@ -1,4 +1,4 @@
-# Databases Week 1
+# Databases Week 2
 
 ## Main Topics
 
