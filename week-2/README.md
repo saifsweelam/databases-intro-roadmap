@@ -6,7 +6,7 @@
     - [Chapter 7 - Mapping ER Model To Relational Model - Full Lecture (Mohamed El Desoky)](https://www.youtube.com/watch?v=cnen7CpUCr4)
 
 * SQL Basic Statements
-    - [SQL Mapping, DB Schema, SQL statements, Creating DB (ITI)](https://www.youtube.com/watch?v=xQYnSg_O8_o) (First 2 hours discuss mapping)
+    - [SQL Mapping, DB Schema, SQL statements, Creating DB (ITI)](https://www.youtube.com/watch?v=hUXokc8B9IA) (First 2 hours discuss mapping)
 
 ## Extra Resources
 

@@ -3,10 +3,10 @@
 ## Main Topics
 
 * SQL Joins
-    - [3-SQL Joins, Normalization (ITI)](https://www.youtube.com/watch?v=OY-5zFpH7hk) (First 2 hours)
+    - [3-SQL Joins, Normalization (ITI)](https://www.youtube.com/watch?v=jZwvEgIwW_U) (First 2 hours)
 
 * SQL Aggregations
-    - [4-SQL, Aggregate Function, Grouping, Union, Subqueries, EERD (ITI)](https://www.youtube.com/watch?v=WDhO2y0GGdY) (First 1 hour)
+    - [4-SQL, Aggregate Function, Grouping, Union, Subqueries, EERD (ITI)](https://www.youtube.com/watch?v=D8RjLuPq98M) (First 1 hour)
 
 ## Extra Resources
 

@@ -9,7 +9,7 @@
     - [Relational vs. NoSQL Databases (Arabic - عربي) with Amr Elhelw (Tech Vault)](https://www.youtube.com/watch?v=eng2ZX78Oiw)
 
 * Database Design Basics
-    - [SQL introduction, DB Design, ERD, File Based System, DB system (ITI)](https://www.youtube.com/watch?v=QJHy89zMvj8)
+    - [SQL introduction, DB Design, ERD, File Based System, DB system (ITI)](https://www.youtube.com/watch?v=9dW34UI520Y)
 
 ## Extra Resources
 
