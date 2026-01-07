@@ -2,28 +2,27 @@
 
 ## Main Topics
 
-* What is a database?
-    - [What is a Database? | Let's Learn (Giraffe Academy)](https://www.youtube.com/watch?v=_Q07-8e3UbI)
-
-* SQL vs NoSQL Databases
-    - [Relational vs. NoSQL Databases (Arabic - عربي) with Amr Elhelw (Tech Vault)](https://www.youtube.com/watch?v=eng2ZX78Oiw)
-
-* Database Design Basics
-    - [SQL introduction, DB Design, ERD, File Based System, DB system (ITI)](https://www.youtube.com/watch?v=9dW34UI520Y)
-
-## Extra Resources
-
-* SQL vs NoSQL
-    - [SQL vs NoSQL or MySQL vs MongoDB (Academind)](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
-
-* ACID Properties
-    - [ACID Properties in Databases With Examples (ByteByteGo)](https://www.youtube.com/watch?v=GAe5oB742dw)
-
+* Intro to Databases
+    - [Giraffe Academy](https://www.youtube.com/watch?v=_Q07-8e3UbI)
+* SQL vs. NoSQL
+    - [Tech Vault](https://www.youtube.com/watch?v=eng2ZX78Oiw)
+    - [Academind](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
 * Database Design
-    - [Building with Databases (Tech Vault)](https://www.youtube.com/playlist?list=PLE8kQVoC67Py5LnCUHp_wp2uzbaBZWSmx)
+    - [Tech Vault](https://www.youtube.com/playlist?list=PLE8kQVoC67Py5LnCUHp_wp2uzbaBZWSmx) [1, 2, 3]
+    - [Mohamed El Desouki](https://www.youtube.com/playlist?list=PLNE3WjwctlOwUsx6uULdQ3AU_JAudVy1i)
 
-## Task
+## Task (30 pts.)
 
-1. Summarize the main topics in your way.
-2. Read this [Case Study](https://drive.google.com/file/d/1DWNpveDlPPS0lBZ_bD88ayIma7XLVFQ4/view) then come up with an ER Diagram to fulfill the requirements (This website may help [ERDPlus](https://erdplus.com/)).
-3. Answer the MCQ Questions in the submission form.
+> **Note:** Using proper search methods is allowed as long as you don't copy the answers from ChatGPT or similar tools.
+
+1. Write a summary on the database design concepts discussed this week. This summary will be your future reference, so put much effort in it. _(10 pts.)_
+
+2. Read this [case study](https://drive.google.com/file/d/1DWNpveDlPPS0lBZ_bD88ayIma7XLVFQ4/view), then use the design concepts you learned to design an ERD for the case study. You can use any tool you like (e.g. [ERDPlus](https://erdplus.com/)). _(5 pts.)_
+
+3. Why do we need databases while we can just store data in an excel sheet? _(2 pts.)_
+
+4. What is a DBMS? and what are the advantages of using it? _(2 pts.)_
+
+5. What is the difference between SQL and NoSQL databases? Mention the advantages and disadvantages of each. _(4 pts.)_
+
+6. Answer the MCQ Questions in the submission form. _(7 pts.)_
